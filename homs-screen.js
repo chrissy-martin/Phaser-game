@@ -5,12 +5,12 @@
 
 //add create() function. create() sets up all of the game objects to set stage.
 function create() {
+    //this is creating the text for main screen
     this.add.text(50, 50, 'Critters of Chaos');
 }
 
 //update() lets us add motion, animateion, and interaction into the game.
 //function update() {}
-
 
 
 //config object specifies some meta-information about the game
